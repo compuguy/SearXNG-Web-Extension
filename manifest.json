@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "SearXNG — Privacy Search Engine (compuguy1088.com)",
   "version": "1.5",
-  "author": "Erghel",
+  "author": "Compuguy",
   "default_locale": "en",
   "description": "__MSG_extensionDescription__",
   "icons": {
